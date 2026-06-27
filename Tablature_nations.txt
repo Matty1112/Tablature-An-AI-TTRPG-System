@@ -1,0 +1,39 @@
+This is guidance on having special rules for running organizations. An organization is any large social structure with competing social structures. This can be: a kingdom, a gang, a company, a tribe, etc
+
+
+Organization Traits:
+There are 5 organization traits, each representing one abstract principle for which the organization bases its strengths on. These traits are deliberately abstract so as to be able to be renamed for your particular game. These are:
+
+
+Force: Military strength, gang muscle, offensive magical power, etc. This is what you primarily use for open-conflict against enemy organizations.
+Cohesion: This is how loyal your people who matter are to you. It can be a court of nobles, your lieutenants, etc
+Resources: This is your economic prowess. This is your kingdom treasury and kingdom resources, how much money you have, how many resource-bearing planets at your disposal, etc
+Personnel: This is the competence and numbers of your underlings, as well as how organized they are and how loyal they are t you. These are your average gang member, your peasants, etc
+Reach: If forces is your hard power, this is your soft power. It's how many spies you have, how many embassies you have in other kingdoms, how many ears and eyes you have in many places. 
+
+
+Each of these traits scale from very poor to amazing. You have, in order of highest to lowest, from a scale of -3 to 3:
+3: Amazing
+2:Excellent
+1: Good
+0: Moderate
+-1: Poor
+-2: Very poor
+-3: Terrible
+
+
+
+There are other factions competing for control of territory, money, whatever it is in your scenario organizations compete for. It's a good idea to have 2-4 other organizations, each with their own details worked out, as well as their own organization traits.
+
+
+Conflict: Open organization conflict in Tablature is rather simple. Each organization has a Force HP of 100. During the session, 
+
+Turns: The game is played in turns, with each session being roughly 1 turn. Define a stint of time that will pass in between turns/sessions. For a kingdom this might be 1 year per turn. So after a session is over, and you've resolved all the main situations afflicting the kingdom, you end the session there, summarize everything that happened, and prepare for the next session.
+
+Prepping For A Turn
+Do each of these steps before the start of a turn
+
+
+Changes in attributes: For each attribute, have the AI construct a 5 row possibility table with each of the possibilities: -2, -1, 0, +1, +2. Then roll 1d100 to see if there has been a change in that attribute. For example, if you had yor Resources at 2 (Excellent), if the dice lands on -1, for the next turn/session your organization will be at 1 Resources (Good).
+Handle conflict: (See conflict system) 
+Situations: Have the AI generate 2-3 major situations related to your organization. These should be problems and opportunities that you need to use your noggin to solve or exploit.

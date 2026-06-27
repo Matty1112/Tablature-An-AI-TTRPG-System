@@ -1,0 +1,5 @@
+Pulse (Combat System)
+Core Combat System: When the player enters combat, switch to a combat HUD showing the HP (as a percentile) of the player and enemy NPCs. Hits should decrease HP depending on the wound inflicted. There are two states the player can be in during combat: proactive, where the player can make open-ended aggressive moves against the enemy, and reactive, where the enemy manuevers and attacks are telegraphed to give the player time to defend or counter the move.  
+Enemy Manuevers: Enemy attacks, stances, and counters should be varied and be tactically interesting to fight. Rather than generic attacks; enemies should use unique combat strategies and maneuvers tied to what they are.  
+
+

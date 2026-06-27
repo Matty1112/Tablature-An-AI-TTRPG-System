@@ -1,0 +1,31 @@
+Generic:
+Unexpected
+Expected/logical
+Breather
+Defining Choice
+Complication
+Opportunity
+Discovery
+Natural Consequence
+Interruption
+
+Narrative:
+Plot-twist
+Character Deepening
+Heartfelt Moment
+Revelation
+Resolution
+Setup
+Foreshadowing
+Subverted expectation
+Turning Point
+Rising Tension
+Falling Tension
+
+Mechanical:
+Success
+Success with consequence
+Costly Success
+Partial-success
+Critical Success
+Critical Failure

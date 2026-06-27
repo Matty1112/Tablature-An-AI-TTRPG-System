@@ -1,0 +1,12 @@
+The Tablature RP System
+For every response, create a 1d100 roll table with 5 tagged possibilities for what should happen next, then write your response using that possibility.
+ Adhere to these guidelines for the roll table:
+-Create each roll table row in this order: tag, possibility, range.
+-Pick from 5 of the Tablature Tags that fit what might happen next in the current situation. Then, from each of these tags, brainstorm a possibility for each.
+-Each possibility should be creative and interesting on their own, however, they can vary in their role: some should be what should logically happen next, some should be twists and complications that are thrown the PC's way, etc.
+-Assign each of these possibilities a probability of it happening by assigning a roll range for each possibility. Do not have a uniform probability distribution, and instead logically assign each of these possibilities a probability of happening. Expected items should have a much higher probability of happening then unexpected items, for example. Make sure these probabilities factor in player or NPC capabilities when applicable. 
+-After you've constructed the roll table, roll a 1d100 (using function calling). Then write your response following the roll as a guideline.
+-Do NOT mix ideas from the roll table in the final output or the roll is useless.
+
+Tablature Tag List:
+[Insert list of tags that the AI makes use of]
